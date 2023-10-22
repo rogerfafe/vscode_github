@@ -1,0 +1,9 @@
+<mvc:View controllerName="br.com.produtos.produto.controller.Produto"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <Text text="App Sap Fiori enviar para GitHub"></Text>
+        </content>
+    </Page>
+</mvc:View>
